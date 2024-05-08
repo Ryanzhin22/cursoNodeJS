@@ -1,0 +1,5 @@
+Aula 6 
+
+Essa aula foi feita no site replit.com 
+Todos conceitos dessa aula já foram aprendidos, apenas relembrados usando o replit
+Todos comandos serão feitos em arquivos .js aqui nessa aula
